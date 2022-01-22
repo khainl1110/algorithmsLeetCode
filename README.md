@@ -1,4 +1,4 @@
 # algorithmsLeetCode
-Algorithms problems I solve on Leetcode, code are my own.
+Algorithms problems I solved on Leetcode, code are my own.
 
 Ranging from Dynamic Programming to Minumum Spanning Tree
